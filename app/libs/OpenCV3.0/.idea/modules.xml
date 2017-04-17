@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/15-puzzle/15-puzzle.iml" filepath="$PROJECT_DIR$/sources/samples/android/15-puzzle/15-puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/java/android_lib/android_lib.iml" filepath="$PROJECT_DIR$/sources/modules/java/android_lib/android_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/java/android_test/android_test.iml" filepath="$PROJECT_DIR$/sources/modules/java/android_test/android_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/camera-calibration/camera-calibration.iml" filepath="$PROJECT_DIR$/sources/samples/android/camera-calibration/camera-calibration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/color-blob-detection/color-blob-detection.iml" filepath="$PROJECT_DIR$/sources/samples/android/color-blob-detection/color-blob-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/java/common_test/common_test.iml" filepath="$PROJECT_DIR$/sources/modules/java/common_test/common_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/platforms/android/service/engine/engine.iml" filepath="$PROJECT_DIR$/sources/platforms/android/service/engine/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/face-detection/face-detection.iml" filepath="$PROJECT_DIR$/sources/samples/android/face-detection/face-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/java/generator/src/generator.iml" filepath="$PROJECT_DIR$/sources/modules/java/generator/src/generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/image-manipulations/image-manipulations.iml" filepath="$PROJECT_DIR$/sources/samples/android/image-manipulations/image-manipulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/video/misc/java/misc.iml" filepath="$PROJECT_DIR$/sources/modules/video/misc/java/misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/imgcodecs/misc/java/misc1.iml" filepath="$PROJECT_DIR$/sources/modules/imgcodecs/misc/java/misc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/objdetect/misc/java/misc2.iml" filepath="$PROJECT_DIR$/sources/modules/objdetect/misc/java/misc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/core/misc/java/misc3.iml" filepath="$PROJECT_DIR$/sources/modules/core/misc/java/misc3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/features2d/misc/java/misc4.iml" filepath="$PROJECT_DIR$/sources/modules/features2d/misc/java/misc4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/imgproc/misc/java/misc5.iml" filepath="$PROJECT_DIR$/sources/modules/imgproc/misc/java/misc5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/core/misc/java/src/misc6.iml" filepath="$PROJECT_DIR$/sources/modules/core/misc/java/src/misc6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/photo/misc/java/misc7.iml" filepath="$PROJECT_DIR$/sources/modules/photo/misc/java/misc7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/videoio/misc/java/misc8.iml" filepath="$PROJECT_DIR$/sources/modules/videoio/misc/java/misc8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/calib3d/misc/java/misc9.iml" filepath="$PROJECT_DIR$/sources/modules/calib3d/misc/java/misc9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/modules/java/pure_test/pure_test.iml" filepath="$PROJECT_DIR$/sources/modules/java/pure_test/pure_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/samples.iml" filepath="$PROJECT_DIR$/sources/samples/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/tutorial-1-camerapreview/tutorial-1-camerapreview.iml" filepath="$PROJECT_DIR$/sources/samples/android/tutorial-1-camerapreview/tutorial-1-camerapreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/tutorial-2-mixedprocessing/tutorial-2-mixedprocessing.iml" filepath="$PROJECT_DIR$/sources/samples/android/tutorial-2-mixedprocessing/tutorial-2-mixedprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sources/samples/android/tutorial-3-cameracontrol/tutorial-3-cameracontrol.iml" filepath="$PROJECT_DIR$/sources/samples/android/tutorial-3-cameracontrol/tutorial-3-cameracontrol.iml" />
+    </modules>
+  </component>
+</project>
